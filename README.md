@@ -1,8 +1,4 @@
-# React + Vite
+You can acess the website here: https://i-phone-15-apple-website-nine.vercel.app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I made It using GSAP (for animations) and Three.js (for 3D animation and 3D model display).
+You can move the 3D iphone model with with your mouse or finger. 
